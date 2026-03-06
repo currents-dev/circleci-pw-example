@@ -1,3 +1,14 @@
+# ⚠️ ARCHIVED REPOSITORY ⚠️
+
+> **This repository is now archived and read-only.**
+>
+> For the latest examples and updates, please visit our new repository:
+>
+> # [👉 https://github.com/currents-dev/currents-examples](https://github.com/currents-dev/currents-examples/tree/main/playwright/ci/circleci)
+
+---
+
+
 # Currents.dev - CircleCI Playwright Example
 
 This is an example repository that showcases running Playwright tests using 3 parallel [CircleCI](https://circleci.com) containers with [Currents.dev](https://currents.dev).
